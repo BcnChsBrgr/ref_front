@@ -78,5 +78,55 @@
         "stock": 160,
         "colour": "orange",
         "item": 1107
+    },
+    {
+        "pid": 9,
+        "description": "0.5mm",
+        "image_url": "https://img.muji.net/img/item/4550002794224_180.jpg",
+        "name": "按壓式順滑啫喱筆(黃)",
+        "price": 8.00,
+        "stock": 160,
+        "colour": "yellow",
+        "item": 1107
+    },
+    {
+        "pid": 10,
+        "description": "0.5mm",
+        "image_url": "https://img.muji.net/img/item/4550002794101_180.jpg",
+        "name": "按壓式順滑啫喱筆(青綠)",
+        "price": 8.00,
+        "stock": 160,
+        "colour": "green",
+        "item": 1107
+    },
+    {
+        "pid": 11,
+        "description": "0.5mm",
+        "image_url": "https://img.muji.net/img/item/4550002794231_180.jpg",
+        "name": "按壓式順滑啫喱筆(深綠)",
+        "price": 8.00,
+        "stock": 160,
+        "colour": "green",
+        "item": 1107
+    },
+    {
+        "pid": 12,
+        "description": "0.5mm",
+        "image_url": "https://img.muji.net/img/item/4550002794156_180.jpg",
+        "name": "按壓式順滑啫喱筆(淺藍)",
+        "price": 8.00,
+        "stock": 160,
+        "colour": "blue",
+        "item": 1107
+    },
+    {
+        "pid": 13,
+        "description": "0.5mm",
+        "image_url": "https://img.muji.net/img/item/4550002794125_180.jpg",
+        "name": "按壓式順滑啫喱筆(天藍)",
+        "price": 8.00,
+        "stock": 160,
+        "colour": "blue",
+        "item": 1107
     }
 ]
